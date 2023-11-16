@@ -697,6 +697,10 @@ video {
     width: 100%;
 }
 
+.info input[type="submit"] {
+    padding: .5rem 2rem;
+}
+
 .footer {
     text-align: center;
     background-color: var(--oscuro);
